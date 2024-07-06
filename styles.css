@@ -1,0 +1,16 @@
+fieldset 
+{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width:fit-content
+}
+div 
+{
+  flex : 1;
+
+}
+label
+{
+  display: block;
+}
